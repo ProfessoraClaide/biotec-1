@@ -9,8 +9,9 @@
 .cabecalho-logo{
     width: 206px;
    height: 150px;
-
+}
+.cabecalho-lista-item{
+    display: inline-block;
 
 }
-
     
