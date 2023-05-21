@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 .cabecalho{
     background-color: #C8FBBC;
     color: #000;
