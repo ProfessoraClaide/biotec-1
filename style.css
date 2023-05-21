@@ -1,6 +1,7 @@
 .cabecalho{
     background-color: #C8FBBC;
     color: #000;
+    display: flex;
 }
 
     
