@@ -2,6 +2,7 @@
     background-color: #C8FBBC;
     color: #000;
     display: flex;
+    justify-content: space-around;
 }
 
     
