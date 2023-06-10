@@ -30,12 +30,13 @@
         #c2e3bd 54%, #c8f0c0 56%);
         color: #100101;
         display: flex;
-}
-.Biotecnologia-secao-conteudo {
-    width: 35%;
-    display: flex;
+        display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+}
+.Biotecnologia-secao-conteudo {
+    width: 35%;
+    
 }
     
