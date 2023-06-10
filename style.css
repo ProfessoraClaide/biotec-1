@@ -26,7 +26,8 @@
     width: 25%;
 }
 .Biotecnologia-secao {
-    background-color: #C8FBBC;
+    background-image: linear-gradient(
+        #C8FBBC 54%, #C8FBBC 56%);
 }
 
     
