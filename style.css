@@ -29,6 +29,7 @@
     background-image: linear-gradient(
         #c2e3bd 54%, #c8f0c0 56%);
         color: #100101;
+        display: flex;
 }
 
     
