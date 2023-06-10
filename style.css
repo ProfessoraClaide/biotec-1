@@ -33,5 +33,9 @@
 }
 .Biotecnologia-secao-conteudo {
     width: 35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
     
