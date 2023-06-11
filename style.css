@@ -32,7 +32,7 @@
         color: #100101;
         display: flex;
         display: flex;
-    justify-content: baseline ;
+    justify-content: space-around;
     align-items: center;
     padding: 0;
 }
