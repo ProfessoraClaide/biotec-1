@@ -43,11 +43,13 @@
     padding: 24px;
     display: block;
 }
+.card{
+    background-image: -o-linear-gradient( #c2e3bd 54%, #c8f0c0 56%);
+}
 .card-cores{
     font-size: 36px;
     padding: 24px;
-    margin: 200%;
-
+    margin: 0%;
 }
 
 
