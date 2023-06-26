@@ -26,7 +26,7 @@
     width: 15%;
     height: 300px;
 }
-.Biotecnologia-secao {
+.Biotecnologia {
     background-image: linear-gradient(
         #c2e3bd 54%, #c8f0c0 56%);
         color: #100101;
@@ -36,7 +36,7 @@
     align-items: center;
     padding: 0;
 }
-.Biotecnologia-secao-conteudo {
+.Biotecnologia-conteudo {
     width: 55%; 
     display: flex; 
     justify-content: center;
