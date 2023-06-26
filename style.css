@@ -29,10 +29,6 @@
         #c2e3bd 54%, #c8f0c0 56%);
         color: #100101;
         display: flex;
-        display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 0;
 }
 .Biotecnologia-conteudo {
     width: 55%; 
