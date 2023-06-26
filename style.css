@@ -37,7 +37,11 @@
     padding: 0;
 }
 .Biotecnologia-secao-conteudo {
-    width: 55%;  
+    width: 55%; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 .texto-biotecnologia{
     font-size: 36px;
